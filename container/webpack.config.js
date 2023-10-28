@@ -9,7 +9,7 @@ const plugins = [
 module.exports = {
     mode:"development",
     devServer:{
-        port:8081
+        port:8080
     },
     plugins
 }
